@@ -1,0 +1,19 @@
+HTML tags
+
+- <head></head> - denotes start and end of a html file
+- <body></body - contains all the body code of a html file
+- <h1></h1> - First level of heading
+- <h2></h2> - second level of heading
+- <h3></h3> - third level of heading
+- <h4></h4> - fourth level of heading
+- <h5></h5> - fifth level of heading
+- <h6></h6> - sixth level of heading
+- <ul></ul> - unordered list notation 
+- <ol></ol> - ordered list notations
+- <ol type = ""></ol> - pre programmed attributes for the ordered list : A,a,I,i,etc.
+- <li></li> - introduces the bullet point
+- <a></a> - anchor tag
+- <a href = "link">TEXT</a> - attribute for the anchor tag to link a specific hyperlink to the text
+- <img> image tag in html . It has no end tag
+- <img src = "imagename.ext" alt = "alternating text" height = "000px" width = "000px"> - attributes of the image tag to show locally present image file(present on the same folder) with adjustment of height and width.
+- <img src = "link" alt = " alternating text"> - attribute of the image tag to showcase any image present on the internet by providing the image address.
