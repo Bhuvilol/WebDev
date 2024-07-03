@@ -1,0 +1,104 @@
+HTML tags
+
+- <head></head> - denotes start and end of a html file
+- <body></body - contains all the body code of a html file
+- <p></p> - denote a paragraph
+- <h1></h1> - First level of heading
+- <h2></h2> - second level of heading
+- <h3></h3> - third level of heading
+- <h4></h4> - fourth level of heading
+- <h5></h5> - fifth level of heading
+- <h6></h6> - sixth level of heading
+- <ul></ul> - unordered list notation 
+- <ol></ol> - ordered list notations
+- <ol type = ""></ol> - pre programmed attributes for the ordered list : A,a,I,i,etc.
+- <li></li> - introduces the bullet point
+- <a></a> - anchor tag
+- <a href = "link">TEXT</a> - attribute for the anchor tag to link a specific hyperlink to the text
+- <img> image tag in html . It has no end tag
+- <img src = "imagename.ext" alt = "alternating text" height = "000px" width = "000px"> - attributes of the image tag to show locally present image file(present on the same folder) with adjustment of height and width.
+- <img src = "link" alt = " alternating text"> - attribute of the image tag to showcase any image present on the internet by providing the image address.
+- <br> - line breaks
+- <b></b> - bold
+- <i></i> - italic
+- <u></u> - underline
+Inline vs Block elements :
+*heading(h1,h2,h3,h4,h5,h6) - block
+*paragraph - block
+*anchor - inline
+*image - inline 
+- Div element(block) - acts as a container used to hold other HTML elements or group together 
+- span element(inline) - generic container used to hold other HTML elements or other groups together
+- <hr> - Horizontal rule element
+- <sub></sub> - subscript
+- <sup></sup> - superscript
+- semantic Markup - This is a markup that relates to the meaning of content
+	*meaningful/layout->structured way
+	*seo friendly(search engine optimization)
+	*readable (screen reader)
+	-<header></header> ; <footer></footer> ; <main></main> ; <nav></nav
+	-<article></article> ; <section></section> ; <aside></aside>
+- HTML entities - is a piece of text "string"
+	- space = &nbsp;
+	- lesser than = &lt;
+	- greater than = &gt;
+	- heart emoji = &hearts;
+	- quotation mark = &quot;
+	- list of entities = https://symbl.cc/en/html-entities/
+- Emmets = https://docs.emmet.io/cheat-sheet/
+- Tables :
+	- <table></table> = start and end of table forming code
+	- <caption></caption> = Title of the table
+	- <tr></tr> = used to display table row
+	- <td></td> = used to display table data
+	- <th></th> = used to display table header
+	- <thead></thead> = to wrap table header
+	- <tbody></tbody> = to wrap table body
+	- <tfoot></tfoot> = to wrap table footer
+	* Table attributes
+		- colspan = " "
+		- rowspan = " "
+- Forms - are used to collect data from user
+	<form>
+		form element
+	</form>
+- Action attribute - used to define what action needs to performed when a form is submitted or where the form data should be sent
+	<form action = "/action.php">
+- Form elements :
+	- Input <input type = " "> - used to create multiple form controls
+		<input>
+		<input type "text">
+		<input type = "password">
+		<input type = "number">
+		<input type = "time">
+		<input type = "color">
+		<input type = "button">
+	- placeholder attribute 
+		<input type = "text" placeholder = "Enter Name">
+	- Label - these represents a caption for an item in a user interface
+		<label>
+			Username:
+			<input type = "text" placeholder = "username">
+		</label>
+
+		<label for="x">###</label>
+		<input type = "" id = "x">
+	- Button
+		<button>###</button>
+		<button type = "submit">###</button>
+		<button type = "button">###</button>
+		<button type = "reset">###</button>
+	- Checkbox
+		<input type = "checkbox" name = "age" id = "age" checked/>
+		<label for = "age"> ###</label>
+	- Radio Input Element
+		input type = "radio" name = "fruit" id = "apple" "value = "apple" />
+		<label for = "apple"> Apple </label>
+	- Select Input Element
+		<select name = "profession" id = "profession">
+			<option value = "student">Student</option>
+			<option value = "dev">Developer</option>
+		<select/>
+	- Range 
+		<label for = "volume">Volume</label>
+		<input type = "range" min = "0" max = "100 name = "vol"/> 
