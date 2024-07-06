@@ -1,11 +1,11 @@
 h1{
     color: orange;
 }
-button{
-    color: white;
+button{ 
+    color: rgb(245, 222, 179);
     background-color: blue;
 }
 p{
-    color: white;
+    color: #ffffff;
     background-color: black;
 }
