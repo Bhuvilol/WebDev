@@ -66,6 +66,31 @@ h3:hover{
     text-decoration: overline;
 }
 button:active{
-    background-color: pink;
-    
+    background-color: hotpink;
+    color: black;
+}
+p:active{
+    font-weight:bold ;
+    color: green;
+}
+input[type="radio"]:checked + label{
+    color: red;
+    font-weight: bold;
+}
+.post:nth-of-type(2n){
+    background-color: aquamarine;
+    color: blueviolet;
+}
+h1::first-letter{
+    color: green;
+}
+p::first-line{
+    color: purple;
+    background-color: beige;
+}
+p::selection{
+    background-color: limegreen;
+}
+li{
+    appearance: background-attachment: scroll;;
 }
