@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     font-family: 'Courier New';
 }
@@ -93,4 +94,101 @@ p::selection{
 }
 li{
     appearance: background-attachment: scroll;;
+=======
+*{
+    font-family: 'Courier New';
+}
+h3{
+    background-color: bisque;
+}
+h1,h1{
+    color: #b92b27;
+}
+/* id selector */
+#login{
+    background-color: white;
+}
+#signup{
+    background-color: #b92b27;
+    color: white;
+}
+/* class selector */
+.upvote{
+    background-color: green;
+    color: aliceblue;
+}
+#myid p{
+    color: gray;
+}
+
+div[id="myid"] p{
+    font-size: xx-large;
+}
+/* descendant selector */
+p a {
+    color: purple;
+    background-color: yellow;
+} 
+.post a{
+    color : red;
+    background-color: cadetblue;
+}
+nav ul li a{
+    color: hotpink;
+}
+p + h3 {
+    text-decoration: underline;
+}
+.upvote + button {
+    background-color: cornflowerblue;
+    color: white;
+}
+div>input{
+    background-color: darksalmon;
+}
+input[type = "text"]{
+    color: blue;
+}
+input[type = "password"]{
+    color: greenyellow;
+}
+input[type]{
+    background-color: burlywood;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+h3:hover{
+    text-decoration: overline;
+}
+button:active{
+    background-color: hotpink;
+    color: black;
+}
+p:active{
+    font-weight:bold ;
+    color: green;
+}
+input[type="radio"]:checked + label{
+    color: red;
+    font-weight: bold;
+}
+.post:nth-of-type(2n){
+    background-color: aquamarine;
+    color: blueviolet;
+}
+h1::first-letter{
+    color: green;
+}
+p::first-line{
+    color: purple;
+    background-color: beige;
+}
+p::selection{
+    background-color: limegreen;
+}
+li{
+    appearance: background-attachment: scroll;;
+>>>>>>> 9c9f51c (30 july)
 }

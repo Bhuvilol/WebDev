@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1{
     color: orange;
 }
@@ -8,4 +9,16 @@ button{
 p{
     color: #ffffff;
     background-color: black;
+=======
+h1{
+    color: orange;
+}
+button{ 
+    color: rgb(245, 222, 179);
+    background-color: blue;
+}
+p{
+    color: #ffffff;
+    background-color: black;
+>>>>>>> 9c9f51c (30 july)
 }

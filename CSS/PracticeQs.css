@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     font-family: 'Courier New';
 }
@@ -9,4 +10,17 @@ h1{
 }
 .userbtn{
     background-color: aqua;
+=======
+*{
+    font-family: 'Courier New';
+}
+h1{
+    color: #1b74e4;
+}
+#searchbtn{
+    background-color: black;
+}
+.userbtn{
+    background-color: aqua;
+>>>>>>> 9c9f51c (30 july)
 }
