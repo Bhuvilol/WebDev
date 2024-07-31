@@ -1,0 +1,12 @@
+* Basis Format of CSS 
+	selector {
+		property : value ;
+		}
+----------------------------------------------------------------------------------------
+* CSS References :
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+-----------------------------------------------------------------------------------------
+* How to include Styles?
+	- Inline Styles
+		eg - <h1 style = "color: red"> Bhabesh Behera </h1>
+	
