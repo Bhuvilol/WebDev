@@ -9,4 +9,27 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 * How to include Styles?
 	- Inline Styles
 		eg - <h1 style = "color: red"> Bhabesh Behera </h1>
-	
+	- Using the style tag inside head block
+		eg - <style>
+				h1 {
+					color : red ;
+				}
+			</style>
+	- External Stylesheet inside head block
+		eg - <link rel = "stylesheet" href="xyz.css">
+		css file :-
+				selector {
+					property : value ;
+				}
+----------------------------------------------------------------------------------------
+* Property :-
+	$ color ~ used to set the color of foreground
+	$ background-color ~ used to set the color of background
+	$ text properties :-
+			text-align : (center),(left/start),(right/end),(justify) ;
+				this property is not absolute to document, it is relative to its parent 
+			font-weight
+			text-decoration
+			line-height
+			letter-spacing
+			font-size
