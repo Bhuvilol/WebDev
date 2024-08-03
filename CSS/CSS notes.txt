@@ -68,3 +68,27 @@ Selctors :
 			.myclass{
 				property : value;
 			}
+	5 - Descendant Selectors - can hold sccount on multiple levels separated by " " inside a tag
+			eg : div p{
+				property : value;
+			}
+			- this selcts all paragraphs inside divs
+	
+	6 - Attribute Selector - Selects elements based on the presence or value of a given attribute
+			eg : input[attr="value"]{
+					property : value;
+				}
+--------------------------------------------------------------------------------------------
+* Selector Combinators :-
+	eg : p + h3 {
+			property : value;
+		}
+
+	+ = sibling/next Combinator
+	> = child Combinator
+---------------------------------------------------------------------------------------------
+* Pseudo Class - A keyword to a selector that specifies a sspecial state of the selected elements
+	: hover
+	: active
+	: checked
+	
