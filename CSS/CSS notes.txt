@@ -88,7 +88,36 @@ Selctors :
 	> = child Combinator
 ---------------------------------------------------------------------------------------------
 * Pseudo Class - A keyword to a selector that specifies a sspecial state of the selected elements
-	: hover
-	: active
-	: checked
-	
+	element:hover
+	element:active - used for buttons or text field
+	element:checked - used for radio buttons or check boxes
+	element:nth-of-type - used for selecting nth element of a given sequence among sibling of same type
+
+* Pseudo Elements - a keyword added to a selector that lets you style a specific part of the selected elements
+	element::first-letter
+	element::first-line
+	element::selection
+
+---------------------------------------------------------------------------------------------
+* What is cascade in CSS?
+	The CSS cascade algorithm's job is to select CSS declaration in
+	order to determine the correct values for CSS properties.
+
+* Cascading property - apply the style added latermost(of the same type)
+
+* Selector Specificity - Specificity is an algorithm that calculates the weight that is applied to a given CSS declaration
+
+	inline style	|		id		|		class			|		element
+					|				|		attribute		|		pseudo-element
+					|				|		pseudo-class 	|
+					|				|						|
+					|				|						|
+	inline style > id > class > element
+
+* !important - to show the most specific thing in document
+		eg : h2{
+				color: white !important;
+			}
+---------------------------------------------------------------------------------------------
+* Inheritance in CSS - inherits its parent/grandparent/greatgrandparent blocks properties
+* Use of Color Palettes
