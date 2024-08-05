@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *{
     font-family: 'Courier New';
 }
@@ -92,9 +91,9 @@ p::first-line{
 p::selection{
     background-color: limegreen;
 }
-li{
-    appearance: background-attachment: scroll;;
-=======
+/* li{
+    appearance: background-attachment: scroll;
+} */
 *{
     font-family: 'Courier New';
 }
@@ -188,7 +187,6 @@ p::first-line{
 p::selection{
     background-color: limegreen;
 }
-li{
+/* li{
     appearance: background-attachment: scroll;;
->>>>>>> 9c9f51c (30 july)
-}
+} */
