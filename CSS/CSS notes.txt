@@ -120,4 +120,4 @@ Selctors :
 			}
 ---------------------------------------------------------------------------------------------
 * Inheritance in CSS - inherits its parent/grandparent/greatgrandparent blocks properties
-* Use of Color Palettes
+* Use of Color Palettes 
