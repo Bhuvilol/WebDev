@@ -46,3 +46,30 @@ console.log(Object.keys(tinderUser));       //datatype : arrays
 console.log(Object.values(tinderUser));     //datatype : arrays
 console.log(Object.entries(users));    //datatype : arrays
 console.log(tinderUser.hasOwnProperty("mothersname"));
+
+
+const course = {
+    coursename : "Javascript",
+    price : "999",
+    duration : "10 hours",
+    instructor : "Hitesh"
+}
+
+const{instructor}=course
+console.log(instructor);
+const{instructor:courseinstructor}=course
+console.log(courseinstructor);
+
+const navbar =({company}) => {
+
+}
+
+navbar(company = "Bhabesh")
+console.log(company);
+
+// JSON
+// {
+//     "name":"Bhabesh",
+//     "coursename" : "Javascript",
+//     "price" : "999",
+// }
