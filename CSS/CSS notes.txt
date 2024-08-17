@@ -1,0 +1,59 @@
+* Basis Format of CSS 
+	selector {
+		property : value ;
+		}
+----------------------------------------------------------------------------------------
+* CSS References :
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+-----------------------------------------------------------------------------------------
+* How to include Styles?
+	- Inline Styles
+		eg - <h1 style = "color: red"> Bhabesh Behera </h1>
+	- Using the style tag inside head block
+		eg - <style>
+				h1 {
+					color : red ;
+				}
+			</style>
+	- External Stylesheet inside head block
+		eg - <link rel = "stylesheet" href="xyz.css">
+		css file :-
+				selector {
+					property : value ;
+				}
+----------------------------------------------------------------------------------------
+* Property :-
+	$ color ~ used to set the color of foreground
+	$ background-color ~ used to set the color of background
+	$ text properties :-
+			text-align : (center),(left/start),(right/end),(justify) ;
+				this property is not absolute to document, it is relative to its parent 
+
+			font-weight : (100-900),(normal~400),(bold~700),(bolder),(lighter) ;
+
+			text-decoration : (underline),(overline),(line-through),(none) ;
+					mdn reference :- https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration
+
+			line-height : (normal),(2.5) ; 
+					controls the height of the line of the text
+
+			letter-spacing : (normal),(10px) ;
+					controls the horizontal spacing behavior between text characters
+			font-size : (15px) ;
+
+				"96 px = 1 inch"
+				
+			font-family :  (impact),(Segoe UI),(fantasy);
+			font- familt : ('avant garde', 'didot', 'sans-serif' ;
+				this specifies a priotised list of one or more font familt name.
+				ref = https://www.cssfontstack.com/
+----------------------------------------------------------------------------------------
+Selctors : 
+	1 - Universal Selector - to select everything in a document
+			*{
+				property : value;
+			}
+	1 - Element Selector - selects all elements of the same type
+			ElementSelector{
+					property : value;
+					}
