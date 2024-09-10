@@ -8,11 +8,11 @@
  document.getElementById("title").textContent - return the text content of the element
  document.getElementById("title").style.color - change the color of the element
  document.getElementById("title").classList.remove("bg-black") - remove class from the element
-document.getElementById("title").classList.add("bg-black") - add class to the element
+ document.getElementById("title").classList.add("bg-black") - add class to the element
 
 document.querySelector("h2") - get single element by tag name
 document.querySelectorAll("h2") - get multiple elements by tag name
-        - this returns a node list
+        - this returns a `node` list
         - node list is like an array but it is not an array
 
         document.querySelectorAll("h2").style.color = "green" [error]
@@ -22,4 +22,31 @@ document.querySelectorAll("h2") - get multiple elements by tag name
             element.style.color = "green"
         }) [correct]
 
-        
+document.getElemensByClassName("title") - get multiple elements by class name
+        - this returns HTML collection (not an array)
+
+convert nodelist into array:
+Array.from(document.getElementsByClassName("title")) - get multiple elements by class name
+    - this returns an array
+    - this is the same as document.querySelectorAll("h2")
+
+.document.querySelectorAll("h2").firstElementChild - get first child of the element
+.document.querySelectorAll("h2").lastElementChild - get last child of the element
+-firstElementChild
+-lastElementChild
+-childNodes
+-parentNode
+-nextElementSibling
+-previousElementSibling
+
+to create a new element in DOM :
+div.setAttribute("id", "title") - set attribute
+.createTextNode("hello") - create text node
+.appendChild(textNode) - append child to the element
+//create
+.createElement("div") - create a new element
+//edit
+.replaceWith(newElement) - replace the element with new element
+.outerHTML - get the html tag value of the element
+//remove
+.remove() - remove the element
