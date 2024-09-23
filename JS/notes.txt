@@ -1,14 +1,16 @@
- DOM
 
- document.getElementById("title") - get element by id
 
- manipulation:
- document.getElementById("title").innerHTML - gives the entire html tag value of the element
- document.getElementById("title").innerText - change the content of the element
- document.getElementById("title").textContent - return the text content of the element
- document.getElementById("title").style.color - change the color of the element
- document.getElementById("title").classList.remove("bg-black") - remove class from the element
- document.getElementById("title").classList.add("bg-black") - add class to the element
+DOM
+
+document.getElementById("title") - get element by id
+
+manipulation:
+document.getElementById("title").innerHTML - gives the entire html tag value of the element
+document.getElementById("title").innerText - change the content of the element
+document.getElementById("title").textContent - return the text content of the element
+document.getElementById("title").style.color - change the color of the element
+document.getElementById("title").classList.remove("bg-black") - remove class from the element
+document.getElementById("title").classList.add("bg-black") - add class to the element
 
 document.querySelector("h2") - get single element by tag name
 document.querySelectorAll("h2") - get multiple elements by tag name
