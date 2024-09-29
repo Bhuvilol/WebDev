@@ -25,7 +25,10 @@ Comparison operators: (==)~equals to (===)~strictly equals to (!=)~not equals to
 Logical operators: (&&)~and (||)~or (!)~not
 Bitwise operators: (&)~and (|)~or (~)~not (^)~xor (<<)~left shift (>>)~right shift (>>>)~unsigned right shift
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Stack(Primitive data types) => Last in First out (LIFO) =>gets a copy of the value
+Heap(Non-primitive data types) => Key value pair =>gets the reference of the value
 
 
 DOM
