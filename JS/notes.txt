@@ -11,6 +11,7 @@ string => "hello"
 boolean => true/false
 null => standalone value
 undefined => declared but not defined
+symbol => unique
 
 non-primitive data types:
 object => {key: value}
@@ -18,11 +19,11 @@ array => [1, 2, 3, 4, 5]
 function => function hello(){}
 
 Operators:
-Arithmetic operators: +~add -~subtract *~multiply /~divide %~modulus ++~increment --~decrement
-Assignment operators: =~equals +=~add and assign -=~subtract and assign *=~multiply and assign /=~divide and assign %=~modulus and assign
-Comparison operators: ==~equals to  ===~strictly equals to !=~not equals to !==~strictly not equals to >~greater than <~less than >=~greater than or equals to <=~less than or equals to
-Logical operators: &&~and ||~or !~not
-Bitwise operators: &~and |~or ~not ^~xor <<~left shift >>~right shift >>>~unsigned right shift
+Arithmetic operators: (+)~add (-)~subtract (*)~multiply (/)~divide (%)~modulus (++)~increment (--)~decrement
+Assignment operators: (=)~equals (+=)~add and assign (-=)~subtract and assign (*=)~multiply and assign (/=)~divide and assign (%=)~modulus and assign
+Comparison operators: (==)~equals to (===)~strictly equals to (!=)~not equals to (!==)~strictly not equals to (>)~greater than (<)~less than (>=)~greater than or equals to (<=)~less than or equals to
+Logical operators: (&&)~and (||)~or (!)~not
+Bitwise operators: (&)~and (|)~or (~)~not (^)~xor (<<)~left shift (>>)~right shift (>>>)~unsigned right shift
 
 
 
