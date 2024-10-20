@@ -27,6 +27,46 @@ Bitwise operators: (&)~and (|)~or (~)~not (^)~xor (<<)~left shift (>>)~right shi
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Datatype Conversion:
+- to number:
+"33" => 33
+"33abc" => NaN
+"33.33" => 33.33
+true => 1
+false => 0
+null => null
+undefined => undefined
+NaN => NaN
+
+- to string:
+33 => "33"
+33.33 => "33.33"
+true => "true"
+false => "false"
+null => "null"
+undefined => "undefined"
+NaN => "NaN"
+
+- to boolean:
+"" => false 
+"0" => false
+"false" => false
+0 => false
+false => false
+NaN => false
+undefined => false
+null => false
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Comparison of Datatypes:
+"2">1 => true
+1>"2" => false
+null>0 => false
+null==0 => false
+null>=0 => true
+
+
 Stack(Primitive data types) => Last in First out (LIFO) =>gets a copy of the value
 Heap(Non-primitive data types) => Key value pair =>gets the reference of the value
 
