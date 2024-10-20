@@ -70,6 +70,20 @@ null>=0 => true
 Stack(Primitive data types) => Last in First out (LIFO) =>gets a copy of the value
 Heap(Non-primitive data types) => Key value pair =>gets the reference of the value
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+String :
+string.length - get the length of the string
+string.charAt(index) - get the character at the index
+string[index] - get the character at the index
+string.toUpperCase() - convert the string to uppercase
+string.toLowerCase() - convert the string to lowercase
+string.indexOf(substring) - get the index of the substring
+string.substring(start, end) - get the substring from start to end
+string.slice(start, end) - get the substring from start to end
+string.replace(substring, newString) - replace the substring with newString
+string.split(separator) - split the string by separator
+string.trim() - trim the string
 
 DOM
 
@@ -82,6 +96,7 @@ document.getElementById("title").textContent - return the text content of the el
 document.getElementById("title").style.color - change the color of the element
 document.getElementById("title").classList.remove("bg-black") - remove class from the element
 document.getElementById("title").classList.add("bg-black") - add class to the element
+
 
 document.querySelector("h2") - get single element by tag name
 document.querySelectorAll("h2") - get multiple elements by tag name
