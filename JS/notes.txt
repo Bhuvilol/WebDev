@@ -85,6 +85,42 @@ string.replace(substring, newString) - replace the substring with newString
 string.split(separator) - split the string by separator
 string.trim() - trim the string
 
+Number :
+number.toString() - convert the number to string
+number.toFixed(precision) - convert the decimal number to fixed precision
+number.toPrecision(precision) - convert the decimal number to precision
+number.toLocaleString('en-IN') - convert the number to locale string in en-IN
+Math library :
+Math.abs(num) - get the absolute value of the number
+Math.round(num) - round the number to the nearest integer
+Math.floor(num) - round the number down to the nearest integer
+Math.ceil(num) - round the number up to the nearest integer
+Math.sqrt(num) - get the square root of the number
+Math.pow(num1, num2) - get the power of the number
+Math.random() - get a random number between 0 and 1
+    // random within range = Math.floor((Math.random()*(max-min+1))+min)
+Math.max(num1, num2) - get the maximum of two numbers
+Math.min(num1, num2) - get the minimum of two numbers
+
+Number.max(num1, num2) - get the maximum of two numbers
+Number.min(num1, num2) - get the minimum of two numbers
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Dates in JS :
+let myDate = new Date();
+myDate.getDate() - get the date
+myDate.getMonth() - get the month
+myDate.getFullYear() - get the year
+myDate.getHours() - get the hours
+myDate.getMinutes() - get the minutes
+myDate.getSeconds() - get the seconds
+myDate.toString() - convert the date to string
+myDate.toLocaleString() - convert the date to locale string
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 DOM
 
 document.getElementById("title") - get element by id
@@ -138,3 +174,28 @@ div.setAttribute("id", "title") - set attribute
 .outerHTML - get the html tag value of the element
 //remove
 .remove() - remove the element
+
+
+OBJECTS:
+to create an object:
+    const obj = {};
+    obj.name = "John";
+    obj.age = 30;
+to access the object:
+    obj.name;
+    obj["age"];
+to add a new property:
+    obj.fullName = "John Doe";
+    to delete a property:
+    delete obj.age;
+to add a new function:
+    obj.greeting = function() {
+        console.log("hello");
+    }
+backticks are used to create a template string:
+"String interpolation"
+    const name = "John";
+    const greeting = `hello ${name}`;
+    console.log(greeting);
+        //output: hello John
+
