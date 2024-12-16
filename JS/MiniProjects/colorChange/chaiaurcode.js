@@ -22,6 +22,5 @@ buttons.forEach((button) => {
       default:
         break;
     }
-    
   })
 })
