@@ -17,23 +17,23 @@
 </body>
 <script>
     const parent = document.querySelector('.parent')
-    // console.log(parent);
-    // console.log(parent.children);
-    // console.log(parent.children[1].innerHTML);
+    // console.log(parent);     // returns the parent element
+    // console.log(parent.children);     // returns the child elements of selected elementusing querySelector
+    // console.log(parent.children[1].innerHTML);      // show or edit the innerHTML of the selected element
 
     // for (let i = 0; i < parent.children.length; i++) {
     //      console.log(parent.children[i].innerHTML);
         
     // }
     parent.children[1].style.color = "orange"
-    // console.log(parent.firstElementChild);
-    // console.log(parent.lastElementChild);
+    // console.log(parent.firstElementChild);     // returns the first child element
+    // console.log(parent.lastElementChild);     // returns the last child element
 
     const dayOne = document.querySelector('.day')
     // console.log(dayOne);
-    // console.log(dayOne.parentElement);
-    // console.log(dayOne.nextElementSibling);
+    // console.log(dayOne.parentElement);     // returns the parent element of the selected child from querySelector
+    // console.log(dayOne.nextElementSibling);     // returns the next sibling element of the selected child from querySelector
 
-    console.log("NODES: ", parent.childNodes);
+    console.log("NODES: ", parent.childNodes);        // returns all the child nodes of the selected element
 </script>
 </html>
