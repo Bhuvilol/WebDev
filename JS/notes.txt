@@ -199,7 +199,7 @@ backticks are used to create a template string:
     console.log(greeting);
         //output: hello John
 
-Javascript is asynchronous language
+Javascript is synchronous language
 Execution control - execute one line at a time
     -Call stach
     - Memory Heap
