@@ -1,0 +1,305 @@
+[33mcommit 7b71c919cb2ca53a5a8ed45cb0831e10e399cc14[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Sun Feb 16 13:07:12 2025 +0530
+
+    Grocery shop list made
+
+[33mcommit 3ac30d2c1c3e1c15004ad1338f900fa5279bfbfc[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Sun Feb 16 12:18:11 2025 +0530
+
+    usage of usesstate hook in react
+
+[33mcommit 7e5db5aec698b3dbd759e4e19d917cfe1a9292fc[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Sat Feb 15 22:38:08 2025 +0530
+
+    React click events learned
+
+[33mcommit 037a8c1a45bb4bc6b6912465bc9e27ac8ed02c4a[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Fri Feb 14 23:02:03 2025 +0530
+
+    react folder adder
+
+[33mcommit 836b8d2f10ec55b63c1c5c7fea91da562b075be6[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Thu Feb 13 22:21:05 2025 +0530
+
+    getters and setters and lexical scoping and closure
+
+[33mcommit 9bf8c0ce50a42c327aaf0954c8e4a2119fbe62b0[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Thu Feb 13 21:43:53 2025 +0530
+
+    objects addon
+
+[33mcommit cb6c5ccdbd0b9493175351b481d4f80ffc6d0096[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Thu Feb 13 17:12:55 2025 +0530
+
+    static property
+
+[33mcommit a29a2a1b1967271ee841a364d655f79bdd3b2eab[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Thu Feb 13 13:04:41 2025 +0530
+
+    this explained
+
+[33mcommit e395a0a79381456884a5f4c90b0fe0100a6212b4[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Thu Feb 13 12:56:19 2025 +0530
+
+    prototype explained
+
+[33mcommit 4b4346d7f7f781ed348b83afb17627962938b842[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Thu Feb 13 11:41:06 2025 +0530
+
+    objects , prototype and new keyword
+
+[33mcommit 8f735c29d418485c0bbdbad7d599d46c79e9dea3[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Thu Feb 13 11:20:35 2025 +0530
+
+    oops in js
+
+[33mcommit 366e7c2945db992f27726a635d8b13276231d739[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Thu Feb 13 11:09:45 2025 +0530
+
+    promises
+
+[33mcommit b3b405238b78b6082e450e1ffae3bf75067a9902[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Tue Feb 11 22:17:13 2025 +0530
+
+    add color changer and keyboard event projects
+
+[33mcommit 8cd1c3ae342d2882cb7c79f50a33dcec321edcbc[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Tue Feb 11 21:31:27 2025 +0530
+
+    events concepts
+
+[33mcommit 5c2e40f6fe385a80a034da5e6e3ce655cbad0292[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Tue Feb 11 11:49:00 2025 +0530
+
+    add number guessing game implementation with HTML, CSS, and JavaScript
+
+[33mcommit 361772972aa8d825fa6612143b6dfb2ea72f0675[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Mon Dec 16 12:21:35 2024 +0530
+
+    3rd project solutions done
+
+[33mcommit 1a603a133d4787f7a6c7798ac235557f233b287e[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Mon Dec 16 12:07:53 2024 +0530
+
+    2nd project solutions done
+
+[33mcommit 1b7a29c4b194b9e793380c1c076812a7fd5b769c[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Mon Dec 16 11:50:09 2024 +0530
+
+    1st project solution
+
+[33mcommit 7200f1b37bd5fd82f2b997fec091a94ebedbff07[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Mon Dec 16 11:30:46 2024 +0530
+
+    DOM
+
+[33mcommit 45b2d783c2e19752b5378b76a480cba34f966e6a[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Sun Dec 15 23:44:33 2024 +0530
+
+    update
+
+[33mcommit adc94cf2969dd7675ad3772e657ab04d12151ce4[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Wed Dec 4 17:53:05 2024 +0530
+
+    high order array and map filter
+
+[33mcommit bd2c1e7a6d9c88e98682241ce9e26d0325fae9f3[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Sun Dec 1 02:05:01 2024 +0530
+
+    logic in js
+
+[33mcommit 96ab6c525e9759645c14d050ce04f2090ceb1700[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Thu Nov 28 13:25:16 2024 +0530
+
+    control flow and iife.js
+
+[33mcommit 84f4d43e40a10de01e9cc2f50030bde375b54ae5[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Thu Nov 28 10:33:38 2024 +0530
+
+    function.js updated
+
+[33mcommit 6fcdb5303caeac1bceaf78d860ae89cd69fca0b2[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Mon Oct 21 00:02:32 2024 +0530
+
+    string methods
+
+[33mcommit 0fcdf5c5091fbfea71531556a2a758e115c04369[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Sun Oct 20 23:46:45 2024 +0530
+
+    added notes
+
+[33mcommit 0d8e8875f24958b4f7e7ff0421958f4e248f33da[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Sun Sep 29 16:40:31 2024 +0530
+
+    heap memory and stack memory
+
+[33mcommit d9a01b78a661aac6fae0bfca8b8665cdb2e96797[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Sun Sep 29 16:35:11 2024 +0530
+
+    data type rev
+
+[33mcommit b66bfd3b2ac14beec54036460206a4ea404101c7[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Sun Sep 29 16:34:58 2024 +0530
+
+    data type rev
+
+[33mcommit 5256c472bfa81c8b1a60a259349c949c587b2be4[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Sat Sep 28 23:12:54 2024 +0530
+
+    update
+
+[33mcommit 58aab7d2e7bf53c6b3c422eb4c0c1115873bbc92[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Sat Sep 28 23:01:23 2024 +0530
+
+    update
+
+[33mcommit 78511b2081fd792d7da86e2320f8a21776b2d6ad[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Thu Sep 26 10:59:35 2024 +0530
+
+    update
+
+[33mcommit 0e91cd10fe752ba759db4548faaefd10c4a1255f[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Tue Sep 24 01:24:22 2024 +0530
+
+    dist folder removed
+
+[33mcommit c697c211003c00a8987bf8a989c98102269879d0[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Tue Sep 24 01:22:58 2024 +0530
+
+    new track
+
+[33mcommit af49c8adde2bd892787d130a05da447d7a60d530[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Mon Sep 23 23:50:38 2024 +0530
+
+    notes updated
+
+[33mcommit 082453759531d115b479c55ec5bafc30d2177e54[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Mon Sep 23 23:47:26 2024 +0530
+
+    regular commit Commit begin
+
+[33mcommit e6624f43a5f1ba54a49980d1bc2fcfef7f5e4721[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Tue Sep 10 08:44:07 2024 +0530
+
+    1st project
+
+[33mcommit d32bfa7222ed0cf04bd01c065aa607eb5664669a[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Tue Sep 10 08:06:29 2024 +0530
+
+    DOM manipulation
+
+[33mcommit 2cb0b4875ed9075d65950552fd3528c4b51f840f[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Mon Sep 9 22:18:54 2024 +0530
+
+    09 update
+
+[33mcommit ac969fdc19e347b634ac146383316c41715d9307[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Wed Sep 4 09:22:32 2024 +0530
+
+    update
+
+[33mcommit 75c9918e400f61679d3ac647ce9854c28278566e[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Tue Aug 20 21:09:11 2024 +0530
+
+    Add
+
+[33mcommit 71282d4cb0caac6079758d656237277a1d79fb12[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Sat Aug 17 21:25:36 2024 +0530
+
+    notes updated
+
+[33mcommit 1e370cc4e9b5723112ce005ec3603dd3f601c383[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Sat Aug 17 18:10:19 2024 +0530
+
+    keyboard
+
+[33mcommit 5d049c92b2172a622ddfc8b4799d13436ba9cc64[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Sat Aug 17 18:00:38 2024 +0530
+
+    unlimited colors
+
+[33mcommit 43422c9f71da9d013c23ad7fb0d909f559566789[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Sat Aug 17 17:32:49 2024 +0530
+
+    Events set timeout and set interval
+
+[33mcommit 16e6c1667b4d74313ce57fa7960c8adec462807c[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Sat Aug 17 15:06:36 2024 +0530
+
+    script files
+
+[33mcommit 7b408fa9a4f130b39bc6a96278615a09df698fee[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Wed Aug 14 23:08:15 2024 +0530
+
+    JSON api 14 aug
+
+[33mcommit 16508f7a731804f14ee08670458d30780fdedf37[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Tue Aug 13 13:44:59 2024 +0530
+
+    objects2 13 aug
+
+[33mcommit b04fc82ae0fa5b0bc54949c2eccadbbabbfd5179[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Tue Aug 13 13:15:42 2024 +0530
+
+    object 13 aug
+
+[33mcommit 43f8903fe5150e412428f7426da85f8eeb09930d[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Tue Aug 13 12:56:47 2024 +0530
+
+    arrays2 13 aug
+
+[33mcommit 4282043a403da28e5f858b088f013c8d8f743c8c[m
+Author: Bhabesh <bhabeshcse@gmail.com>
+Date:   Tue Aug 13 12:38:36 2024 +0530
+
+    arrays 
