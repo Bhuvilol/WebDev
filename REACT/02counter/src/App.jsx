@@ -22,10 +22,10 @@ function App() {
   };
   return (
     <>
-      <h1>Chai aur React</h1>
+      <h1>Bhuvi</h1>
       <h2>Counter value: {counter}</h2>
       <button onClick={addValue}>Add value</button>
-      <br />
+      <br /><br />
       <button onClick={decreaseValue}>Decrease value</button>
     </>
   );
