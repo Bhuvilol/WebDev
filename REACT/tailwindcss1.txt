@@ -1,0 +1,39 @@
+Tailwindcss1 :
+To all those who are facing the error in installing tailwind- 
+The error is because , recently tailwind's newer version (V 4) is released and it has completely different setup procedure for vite(Refer documentation). To follow according to the course-
+
+Try running-
+npm install -D tailwindcss postcss autoprefixer
+npm install -D tailwindcss@3.4.17
+npx tailwindcss init -p
+
+change the "content" under tailwind.config.js to-
+{
+  content: [
+    "./index.html",
+    "./src/**/*.{js,jsx,ts,tsx}"],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+
+add the following insite index.css file  at the top in src folder :
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+then:
+npm run dev
+
+
+
+
+Tailwindcss2 :
+
+How to install recent tailwind version 
+1) open terminal and run : npm install tailwindcss @tailwindcss/vite
+2)open vite.config.ts  : add this import line : import tailwindcss from '@tailwindcss/vite'  and inside plugins add : tailwindcss()
+3)open src go to index.css and add :  @import "tailwindcss";   at the top 
+4) open terminal and run : npm run dev 
+
