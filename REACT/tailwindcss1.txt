@@ -18,7 +18,7 @@ change the "content" under tailwind.config.js to-
   plugins: [],
 }
 
-add the following insite index.css file  at the top in src folder :
+add the following inside index.css file  at the top in src folder :
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
