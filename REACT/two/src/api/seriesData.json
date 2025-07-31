@@ -1,0 +1,88 @@
+[
+    {
+        "name": "The Walking Dead",
+        "id": "TheWalkingDead",
+        "image": "https://images.nintendolife.com/9d6e13cf1ee98/zelda-totk-amiibo.900x.jpg",
+        "rating": 8.5,
+        "description": "The Walking Dead is a post-apocalyptic horror series that follows a group of survivors in a world overrun by zombies. The series is set in the fictional town of Deadtown, which is overrun by the undead. The show is known for its dark humor, gory violence, and a strong emphasis on character development.",
+        "genre": "Horror",
+        "cast": [
+            "Andrew Lincoln",
+            "Carrie Preston",
+            "Jensen Ackles",
+            "Michael Trevino"
+        ],
+        "watch_url": "https://www.imdb.com/title/tt1520211/"
+    },
+    {
+        "name": "The Squid Game",
+        "id": "TheSquidGame",
+        "image": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D",
+        "rating": 8.5,
+        "description": "The squid game is a 2019 American comedy film directed by David O. Russell and written by John Wells and David O. Russell. The film stars Russell, Wells, and O'Shea Jackson Jr. in his film debut. The film was released on August 1, 2019, by Netflix.",
+        "genre": "Comedy",
+        "cast": [
+            "David O. Russell",
+            "John Wells",
+            "O'Shea Jackson Jr."
+        ],
+        "watch_url": "https://www.imdb.com/title/tt0120915/"
+    },
+    {
+        "name": "The Iron Man",
+        "id": "TheIronMan",
+        "image": "https://imgv3.fotor.com/images/slider-image/A-clear-close-up-photo-of-a-woman.jpg",
+        "rating": 8.5,
+        "description": "The Iron Man is an American superhero film based on the Marvel Comics character of the same name. The film was directed by Jon Favreau and written by Jon Favreau, Chris McKenna, and Chris McKenna. It stars Robert Downey Jr. as Tony Stark / Iron Man, alongside Robert Downey Jr. and Gwyneth Paltrow in her film debut. The film was released on May 15, 2008, by 20th Century Fox.",
+        "genre": "Action",
+        "cast": [
+            "Robert Downey Jr.",
+            "Gwyneth Paltrow",
+            "Robert Downey Jr."
+        ],
+        "watch_url": "https://www.imdb.com/title/tt0371746/"
+    },
+    {
+        "name": "The Dark Knight",
+        "id": "TheDarkKnight",
+        "image": "https://thumbs.dreamstime.com/front/img/landings/photos/288408911.jpg",
+        "rating": 8.5,
+        "description": "The Dark Knight is an American superhero film based on the DC Comics character of the same name. The film was directed by Christopher Nolan and written by Jonathan Nolan, Christopher Nolan, and Jonathan Nolan. It stars Christian Bale as Batman, alongside Michael Caine, Heath Ledger, and Michael Caine in his film debut. The film was released on October 20, 2008, by 20th Century Fox.",
+        "genre": "Action",
+        "cast": [
+            "Christian Bale",
+            "Michael Caine",
+            "Heath Ledger",
+            "Michael Caine"
+        ],
+        "watch_url": "https://www.imdb.com/title/tt0468569/"
+    },
+    {
+        "name": "The Avengers",
+        "id": "TheAvengers",
+        "image": "https://copyright.unimelb.edu.au/__data/assets/image/0003/2712090/img_Page_3_Image_0001.jpg",
+        "rating": 8.5,
+        "description": "The Avengers is an American superhero film based on the Marvel Comics characters of the same name. The film was directed by Joss Whedon and written by Joss Whedon, Zak Penn, and Joss Whedon. It stars Robert Downey Jr. as Iron Man, alongside Robert Downey Jr. and Mark Ruffalo in their film debuts. The film was released on May 15, 2012, by 20th Century Fox.",
+        "genre": "Action",
+        "cast": [
+            "Robert Downey Jr.",
+            "Robert Downey Jr.",
+            "Mark Ruffalo"
+        ],
+        "watch_url": "https://www.imdb.com/title/tt0848228/"
+    },
+    {
+        "name": "La La Land",
+        "id": "LaLaLand",
+        "image": "https://imagekit.io/blog/content/images/2019/12/image-optimization.jpg",
+        "rating": 8.5,
+        "description": "La La Land is a 2016 American romantic musical comedy film directed by Damien Chazelle and written by Damien Chazelle, Michael Goldenberg, and Michael Goldenberg. The film stars Ryan Gosling as a high school student who falls in love with a singer (Lupita Nyong'o) and her boyfriend (Jaden Smith). The film was released on June 19, 2016, by 20th Century Fox.",
+        "genre": "Comedy",
+        "cast": [
+            "Ryan Gosling",
+            "Lupita Nyong'o",
+            "Jaden Smith"
+        ],
+        "watch_url": "https://www.imdb.com/title/tt2278388/"
+    }
+]
